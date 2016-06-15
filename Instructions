@@ -1,3 +1,5 @@
+This project is find anagrams in tweeter feeds for each day.  
+
 1) Set FLUME_HOME
 2) Create twitter app and generate tokens
 3) Put tokens in twitter.conf in flume conf directory
