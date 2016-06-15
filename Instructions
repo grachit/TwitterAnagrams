@@ -1,0 +1,6 @@
+1) Set FLUME_HOME
+2) Create twitter app and generate tokens
+3) Put tokens in twitter.conf in flume conf directory
+4) Run hive script to create table.
+5) Run command from flume_script to get feeds from Twitter
+6) Run AnagramsRunner Job
